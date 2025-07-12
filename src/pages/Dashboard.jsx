@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 import Navbar from "../components/Navbar";
-import SuratTable from "../components/SuratTable.JSX";
+import SuratTable from "../components/SuratTable.jsx";
 import { useSearchParams } from "react-router-dom";
 
 const Dashboard = () => {
