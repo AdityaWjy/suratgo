@@ -1,12 +1,48 @@
-# React + Vite
+# 📬 SuratGo
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**SuratGo** adalah aplikasi sederhana untuk mengelola **Surat Jalan** menggunakan **React**. Aplikasi ini mendukung fitur CRUD (Create, Read, Update, Delete) dan dilengkapi dengan autentikasi dasar untuk proteksi halaman.
 
-Currently, two official plugins are available:
+## 🚀 Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🌐 Live demo: [Klik di sini](https://suratgo.vercel.app) _(ubah sesuai URL kamu di Vercel)_
 
-## Expanding the ESLint configuration
+### 🔐 Demo Login
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Gunakan kredensial berikut untuk login:
+Fullname: adityawjy
+Password: 123
+
+---
+
+## ✨ Fitur Utama
+
+- 🔐 Login sederhana dengan proteksi rute
+- 📝 CRUD Surat Jalan
+- 📂 Form input dan validasi
+- ⚡ UI responsif berbasis React
+
+---
+
+## 🧰 Teknologi yang Digunakan
+
+- ⚛️ [React](https://reactjs.org/)
+- 🧭 [React Router DOM](https://reactrouter.com/)
+- 💾 Local Storage untuk penyimpanan login sederhana
+- 🎨 [Tailwind CSS](https://tailwindcss.com/) _(jika digunakan)_
+- ⚙️ [Vite](https://vitejs.dev/) _(atau Create React App)_
+
+---
+
+## 🛠️ Cara Menjalankan di Lokal
+
+1. **Clone repository**
+
+```bash
+git clone https://github.com/AdityaWjy/suratgo.git
+cd suratgo
+npm install
+npm run dev
+npm run build
+```
+
+---
