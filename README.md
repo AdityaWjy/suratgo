@@ -4,7 +4,7 @@
 
 ## 🚀 Demo
 
-🌐 Live demo: [Klik di sini](https://suratgo.vercel.app) _(ubah sesuai URL kamu di Vercel)_
+🌐 Live demo: [Klik di sini](https://suratgo.vercel.app)
 
 ### 🔐 Demo Login
 
