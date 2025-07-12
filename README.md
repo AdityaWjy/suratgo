@@ -28,8 +28,8 @@ Password: 123
 - ⚛️ [React](https://reactjs.org/)
 - 🧭 [React Router DOM](https://reactrouter.com/)
 - 💾 Local Storage untuk penyimpanan login sederhana
-- 🎨 [Tailwind CSS](https://tailwindcss.com/) _(jika digunakan)_
-- ⚙️ [Vite](https://vitejs.dev/) _(atau Create React App)_
+- 🎨 [Tailwind CSS](https://tailwindcss.com/)
+- ⚙️ [Vite](https://vitejs.dev/)
 
 ---
 
@@ -44,5 +44,3 @@ npm install
 npm run dev
 npm run build
 ```
-
----
